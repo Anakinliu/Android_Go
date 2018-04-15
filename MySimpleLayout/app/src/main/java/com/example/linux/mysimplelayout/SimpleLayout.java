@@ -41,7 +41,8 @@ public class SimpleLayout extends ViewGroup {
             方法得到的值就是在 onMeasure() 方法中测量出的宽和高.
             而getWidth()和getHeight()得到的是layout()方法(由onLayout()调用)后的, 使用视图左右坐标, 上下坐标相减得到的
              */
-            chileView.layout(0, 0, getMeasuredWidth(), getMeasuredHeight());
+            chileView.layout(0, 0, 10, getMeasuredHeight());
+//            chileView.layout(0, 0, getMeasuredWidth(), getMeasuredHeight());
 
         }
     }
