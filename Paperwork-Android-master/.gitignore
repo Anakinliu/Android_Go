@@ -1,0 +1,16 @@
+#Gradle 
+.gradle
+gradle.properties
+
+#Android Studio
+build/
+*.iml
+*.ipr
+*.iws
+/local.properties
+/.idea
+
+.DS_Store
+Thumbs.db
+
+.phraseapp.yml

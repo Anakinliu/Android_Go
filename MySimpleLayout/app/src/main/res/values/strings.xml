@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySimpleLayout</string>
+    <string name="num_text">0123456789</string>
+</resources>

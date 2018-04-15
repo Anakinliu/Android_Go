@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\Android\openct-mvp-master\OpenCT.iml" filepath="F:\Android\openct-mvp-master\OpenCT.iml" />
+      <module fileurl="file://F:\Android\openct-mvp-master\app\app.iml" filepath="F:\Android\openct-mvp-master\app\app.iml" />
+      <module fileurl="file://F:\Android\openct-mvp-master\config\config.iml" filepath="F:\Android\openct-mvp-master\config\config.iml" />
+      <module fileurl="file://F:\Android\openct-mvp-master\excelreader\excelreader.iml" filepath="F:\Android\openct-mvp-master\excelreader\excelreader.iml" />
+      <module fileurl="file://F:\Android\openct-mvp-master\interactiveweb\interactiveweb.iml" filepath="F:\Android\openct-mvp-master\interactiveweb\interactiveweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openct-mvp-master.iml" filepath="$PROJECT_DIR$/openct-mvp-master.iml" />
+    </modules>
+  </component>
+</project>

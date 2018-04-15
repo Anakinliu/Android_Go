@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActivityTest !</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_remove">Remove</string>
+    <string name="menu_finish">Finish</string>
+    <string name="button1">Go to Second Activity For Result</string>
+    <string name="button2">Back MainActivity</string>
+    <string name="button5">Back ManiActivity with result</string>
+    <string name="button3">Open Google</string>
+    <string name="button4">Call 10086</string>
+    <string name="button6">Get a Contact Person</string>
+    <string name="go_third_activity">Go Third Activity</string>
+    <string name="create_my_self">Create My Self</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_finish_main">Kill Main 123456</string>
+</resources>

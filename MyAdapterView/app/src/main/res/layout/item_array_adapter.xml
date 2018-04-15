@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--别忘了命名空间!!-->
+<!--ArrayAdapter must be the id of a xml layout file containing only
+a TextView(the TextView
+
+can't be wrapped by another layout,
+
+like a LinearLayout, RelativeLayout etc!), something like this:-->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+

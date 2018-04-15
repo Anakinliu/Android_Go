@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application Again</string>
+    <string name="edit_userName">输入</string>
+    <string name="edit_nickname">输入</string>
+    <string name="button_send">确认提交</string>
+    <string name="userName">用户名</string>
+    <string name="nickname">昵称 </string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/left_guideline"
+        android:text="@string/left_top"
+        app:layout_constraintGuide_percent=".50"
+        android:gravity="start|top"
+        android:orientation="horizontal"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/right_guideline"
+        android:text="@string/right_top"
+        app:layout_constraintGuide_percent=".50"
+        android:gravity="end|top"
+        android:orientation="horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/top_guideline"
+        app:layout_constraintGuide_percent=".15"
+        android:orientation="horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottom_guideline"
+        app:layout_constraintGuide_percent=".85"
+        android:orientation="horizontal"/>
+
+
+</android.support.constraint.ConstraintLayout>

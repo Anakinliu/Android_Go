@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI Layout Test</string>
+    <string name="button1">333333333333333</string>
+    <string name="text">This is text tttttttttt</string>
+    <string name="button">Button</string>
+    <string name="left_top">left_top</string>
+    <string name="right_top">right_top</string>
+</resources>

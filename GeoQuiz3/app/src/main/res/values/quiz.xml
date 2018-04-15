@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz0">中国有1个省和自治区?</string>
+    <string name="quiz1">中国有2个省和自治区?</string>
+    <string name="quiz2">中国有3个省和自治区?</string>
+    <string name="quiz3">中国有4个省和自治区?</string>
+    <string name="quiz4">中国有5个省和自治区?</string>
+    <string name="quiz5">中国有6个省和自治区?</string>
+    <string name="quiz6">中国有7个省和自治区?</string>
+    <string name="quiz7">中国有1个省\n\t和自治区?</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz3</string>
+    <string name="correct_button">对</string>
+    <string name="incorrect_button">错</string>
+    <string name="correct_toast">回答正确! 不错!</string>
+    <string name="incorrect_toast">回答错误! 加油!</string>
+    <string name="custom_toast_imageview">custom toast\'s imageview</string>
+    <string name="custom_toast_text">This is toast text.</string>
+    <string name="next">下一题</string>
+    <string name="previous">上一题</string>
+    <string name="cheat_button">答案</string>
+    <string name="back_button">back</string>
+    <string name="show_answer">确认查看答案</string>
+    <string name="true_chinese">对</string>
+    <string name="false_chinese">错</string>
+</resources>

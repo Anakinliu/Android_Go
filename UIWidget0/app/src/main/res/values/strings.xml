@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI Widget 0</string>
+    <string name="my_button">My Button</string>
+    <string name="editor_1">Input anything here !</string>
+    <string name="img1">TOM</string>
+    <string name="button2">Promote the progress bar</string>
+    <string name="button3">ProgressDialog</string>
+</resources>

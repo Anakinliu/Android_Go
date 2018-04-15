@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UI Widget 0</string>
+    <string name="my_button">My Button</string>
+    <string name="editor_1">Input anything here !</string>
+</resources>

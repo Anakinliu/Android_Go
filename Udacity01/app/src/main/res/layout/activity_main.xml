@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        android:src="@drawable/valve" />
+
+    <TextView
+        android:background="@android:color/black"
+        android:id="@+id/happy_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="15dp"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="28sp"
+        android:textAllCaps="true"
+        android:isScrollContainer="true"
+        android:fontFamily="sans-serif-light"
+        android:text="   Valve Corporation is an American video game developer and digital distribution company headquartered in Bellevue, Washington." />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/black">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/holo_blue_bright"
+            android:textSize="16sp"
+            android:fontFamily="sans-serif-light"
+            android:text=" CEO: Gabe Newell (1996–)\n
+Founded: August 24, 1996, Kirkland, WA \n
+Owner: Gabe Newell                \n
+Founders: Gabe Newell, Mike Harrington"/>
+    </RelativeLayout>
+
+</LinearLayout>
